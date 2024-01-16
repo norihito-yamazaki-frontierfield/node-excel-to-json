@@ -209,3 +209,8 @@ dist
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,node,git,visualstudiocode
+
+
+index-linux
+index-macos
+index-win.exe
